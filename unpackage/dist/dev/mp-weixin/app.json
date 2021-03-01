@@ -1,0 +1,20 @@
+{
+  "pages": [
+    "pages/focus/focus",
+    "pages/index/index",
+    "pages/about/about",
+    "pages/login/login",
+    "pages/detail/detail",
+    "pages/register/register",
+    "pages/checklogin/checklogin"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "uni-app",
+    "navigationBarBackgroundColor": "#F8F8F8",
+    "backgroundColor": "#F8F8F8"
+  },
+  "usingComponents": {},
+  "sitemapLocation": "sitemap15.json"
+}
